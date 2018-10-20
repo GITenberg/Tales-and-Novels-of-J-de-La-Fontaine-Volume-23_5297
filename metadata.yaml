@@ -1,5 +1,5 @@
 _repo: Tales-and-Novels-of-J-de-La-Fontaine-Volume-23_5297
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'French poetry -- Translations into English'
 - !lcc 'PQ'
 - !lcsh 'Fables, French -- Translations into English'
+- GITenberg
 tableOfContents: The River Scamander -- The Confidant Without Knowing It, or The Strategem
   -- The Clyster.
 title: Tales and Novels of J. de La Fontaine — Volume 23
